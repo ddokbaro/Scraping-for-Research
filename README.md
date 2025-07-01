@@ -16,7 +16,7 @@
 
 | 스크래퍼 (Scraper) | 설명 (Description) | 바로 실행 (Launch) |
 | :--- | :--- | :--- |
-| **왓챠피디아 코멘트 수집**<br/>(`스크래핑_왓챠피디아_코맨트수집.ipynb`) | 왓챠피디아의 영화, TV 프로그램 등 특정 콘텐츠 페이지에 달린 모든 코멘트(ID, 별점, 내용, 좋아요, 댓글 수)를 수집합니다. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ddokbaro/Scraping-for-Research/blob/main/스크래핑_왓챠피디아_코맨트수집.ipynb) |
+| **왓챠피디아 코멘트 수집**<br/>(`스크래퍼_왓챠피디아_코맨트수집.ipynb`) | 왓챠피디아의 영화, TV 프로그램 등 특정 콘텐츠 페이지에 달린 모든 코멘트(ID, 별점, 내용, 좋아요, 댓글 수)를 수집합니다. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ddokbaro/Scraping-for-Research/blob/main/스크래퍼_왓챠피디아_코맨트수집.ipynb) |
 | *(이곳에 새로운 스크래퍼를 추가할 수 있습니다.)* | | |
 
 ## 4. 로컬 환경에서 실행하기 (For Local Environment)
